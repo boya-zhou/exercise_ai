@@ -1,5 +1,9 @@
 # exercise_ai
-some exercise in Artificial Intelligence
+some exercise in Artificial Intelligence: A Modern Approach
+
+If want to refresh knowledge, check problem records.
+
+## closely related with data science
 
 ### A4_problem1
 
