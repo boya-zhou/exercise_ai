@@ -1,14 +1,23 @@
-# exercise_ai
-some exercise in Artificial Intelligence: A Modern Approach
+# ml_model_self_implementation
 
-If want to refresh knowledge, check problem records.
+some exercise in Artificial Intelligence class and Deep Learning class
 
 ## closely related with data science
 
-### A4_problem1
+### kMeans_AI
 
-implement k-means
+implement k-means, test on two diamond points dataset
 
-### A4_problem2
+### logistic_regression_AI
 
-implement logistic regression with l2 reg
+implement logistic regression with l2 reg, test on iris dataset and chronic_kidney_disease_full dataset
+
+### logistic_regression_DP
+
+implement logistic regression with l2 reg, test on 24 * 24 grayscale face dataset
+
+### nn_minibatch_mnist_DP
+
+implement 3 layer nerual network with minibatch gradient descent, test on mnist data
+implement hyperparameter tuning on nerual network for choosing best param set
+check_grad for test correctness of a gradient function
